@@ -10,5 +10,13 @@ To download the script, go into Releases.
 
 
 COMES EQUIPEED WITH:
+
 Indicator (Red/Green)
+
 Toggle to turn on/off flying.
+
+Controls:
+E - Go Up
+Q - Go Down
+F - Turn on / off
+WASD - Move Around (obvi)
